@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/maudlinmandrake/product-preview-card-component)
-- Live Site URL: [Live](https://maudlinmandrake.github.io/product-preview-card-component)
+- Solution URL: [Solution](https://github.com/iamirsh/product-preview-card-component-main)
+- Live Site URL: [Live](https://65153760d9594068c1999cec--aquamarine-panda-0361ce.netlify.app/)
 
 ## My process
 

@@ -13,8 +13,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
-    - [Useful resources](#useful-resources)
-  - [Author](#author)
+    
+
 
 ## Overview
 
@@ -47,7 +47,7 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Through this project, I've learned how to use the `srcset` attribute in HTML for responsive image handling. It enables web developers to provide multiple image options with different resolutions and sizes to cater to various devices and screen dimensions. By specifying various image sources and their widths in `srcset`, I can optimize image loading for different scenarios, enhancing the user experience across devices, from desktops to mobile.
 
 ```html
 <img

@@ -13,7 +13,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
-    
+ - [Author](#author)
 
 
 ## Overview
@@ -58,7 +58,10 @@ Through this project, I've learned how to use the `srcset` attribute in HTML for
 >
 ```
 
+## Author
 
+- Website - [Irshad Ahmad](https://github.com/iamirsh)
+- Frontend Mentor - [@iamirsh](https://www.frontendmentor.io/profile/iamirsh)
 
 
 

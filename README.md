@@ -27,8 +27,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshots/product-prev-desktop-screen.png)
-![](screenshots/product-prev-mobile-screen.png)
+![product-prev-desktop-screen](https://github.com/iamirsh/product-preview-card-component-main/assets/46514596/9193132b-5cd1-40e7-a2b2-d97c2ddd1c80)
+![product-prev-mobile-screen](https://github.com/iamirsh/product-preview-card-component-main/assets/46514596/53a1b269-a6cd-4d24-bc02-95cab0b2f097)
+
 
 ### Links
 
@@ -46,7 +47,7 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Use this section to recap some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 ```html
 <img
@@ -57,9 +58,7 @@ Use this section to recap over some of your major learnings while working throug
 >
 ```
 
-### Useful resources
 
-- [Complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Great reference for Flexbox
-- [Responsive Images: Reference Guide](https://imagekit.io/responsive-images/) - Extremely comprehensive guide to respomsive images
+
 
 
